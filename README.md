@@ -6,7 +6,7 @@ This app allows users to **add, edit, delete, and mark tasks as complete** with 
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Live Site](https://extraordinary-croquembouche-cfd8fd.netlify.app/)  
+🔗 **Live Project link:** [View Live Site](https://extraordinary-croquembouche-cfd8fd.netlify.app/)  
 
 🔗 **GitHub Repository:** [Todo App](https://github.com/vjbravo123/Todo.git)
 
